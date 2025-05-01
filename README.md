@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swayam Kataria
 - 🌱 I’m currently learning Front End Deevelopment , C/C++ and IOT
 - 💞️ I’m looking to collaborate on more projects
-- 📫 You can reach me at swmktria@gmail.com
+- 📫 You can reach me at workswm21@gmail.com
 - 😄 He/Him
 
 <!---
