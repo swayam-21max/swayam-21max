@@ -72,28 +72,10 @@ Helping **learners track skills** and **trainers assign skill paths** — a comp
 
 ---
 
-## 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/swayam-21max/swayam-21max/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 🎨 Fun Zone
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="coding gif"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="developer gif"/>
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="idea gif"/>
-</p>
-
----
 
 ## 🌍 Let's Connect
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"/></a>
+  <a href="https://www.linkedin.com/in/swayam-kataria/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
