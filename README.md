@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=swayam-21max&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/swayam-21max?label=Followers&style=for-the-badge" alt="followers badge"/>
   <img src="https://img.shields.io/github/stars/swayam-21max?label=Stars&style=for-the-badge" alt="stars badge"/>
+  <img src="https://img.shields.io/badge/Made%20With-Love-ff69b4?style=for-the-badge" alt="Made With Love badge"/>
 </p>
 
 ---
@@ -26,7 +27,6 @@ I’m **Swayam Kataria**, a passionate developer who thrives on **creating scala
 ---
 
 ## ⚡ Crazy Tech Arsenal
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,react,nodejs,express,mongodb,mysql,git,github,html,css,js,vscode,linux&theme=dark" />
 </p>
@@ -56,8 +56,14 @@ Helping **learners track skills** and **trainers assign skill paths** — a comp
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swayam-21max&theme=darkhub&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
+</p>
 
+---
+
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swayam-21max&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=00000000" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayam-21max&theme=tokyonight&hide_border=true" height="170" />
@@ -65,25 +71,18 @@ Helping **learners track skills** and **trainers assign skill paths** — a comp
 
 ---
 
-## 🌐 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swayam-21max&bg_color=000000&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-</p>
-
----
-
-
-## 🌍 Let's Connect
+## 🌐 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/swayam-kataria/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="swayamkataria.dev@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:swayamkataria.dev@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://github.com/swayam-21max"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
 ## 🎯 Fun Facts
 - 🚀 I believe in **“Code. Learn. Build. Grow.”**
-- 🧠 Big fan of **AI-driven systems** and **clean architecture**.
+- 🧠 Passionate about **AI-driven systems** and **clean architecture**.
 - ⚡ Random fact: I debug my dreams.
 
 ---
