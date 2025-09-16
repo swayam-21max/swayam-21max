@@ -56,12 +56,7 @@ Helping **learners track skills** and **trainers assign skill paths** — a comp
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swayam-21max&theme=darkhub&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
-</p>
 
----
 
 ## 📊 GitHub Analytics
 <p align="center">
