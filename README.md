@@ -1,99 +1,111 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Swayam+Kataria+👋;Java+Developer+%7C+DSA+Enthusiast;Full+Stack+%26+AI+Learner;Building+Scalable+Systems+⚡" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Swayam+Kataria+👋;Java+Developer+%7C+DSA+Enthusiast+💻;Full+Stack+%26+AI+Learner+🚀;Lover+of+Clean+Code+%26+Big+Ideas+🌟" alt="Typing Animation">
 </p>
 
 ---
 
-# 🌟 About Me
-
-I’m a **passionate developer** who loves building **scalable systems**, solving **complex problems**, and exploring **cutting-edge technologies**.  
-Currently sharpening my skills in **AI**, **Backend Engineering**, and **Full Stack Development**.
-
-- 🔭 **Currently Working On:** `SkillBridge` – a skill-tracking platform for learners and trainers.  
-- 🌱 **Currently Learning:** AI, System Design, Computer Networks.  
-- 💻 **Core Skills:** Java, DSA, Backend Development, Full Stack Engineering.  
-- 🎯 **Goal:** Become a **world-class software engineer** with expertise in **AI-driven systems**.
+<!-- Profile Views & Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swayam-21max&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/swayam-21max?label=Followers&style=for-the-badge" alt="followers badge"/>
+  <img src="https://img.shields.io/github/stars/swayam-21max?label=Stars&style=for-the-badge" alt="stars badge"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🌟 About Me
+
+I’m **Swayam Kataria**, a passionate developer who thrives on **creating scalable systems**, **solving tough challenges**, and exploring **cutting-edge technologies**.  
+
+💻 **Tech Love:** Java, DSA, Backend Engineering, Full Stack Development, AI  
+🚀 **Currently Working On:** [SkillBridge](#) – a platform for skill tracking & growth  
+📚 **Currently Learning:** AI, System Design, Computer Networks  
+🎯 **Ambition:** Build intelligent, scalable, and impactful products that solve real-world problems.
+
+---
+
+## ⚡ Crazy Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Code-C++-00599C?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DBFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-3C873A?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Database-MySQL-F29111?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-4DB33D?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,react,nodejs,express,mongodb,mysql,git,github,html,css,js,vscode,linux&theme=dark" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Online Banking System](#)
-A **secure Java-based banking system** built with OOP and DSA concepts.  
+### 🏦 [Online Banking System](#)
+A **secure banking application** built with Java and DSA concepts.  
 > **Tech Stack:** Java, MySQL  
-> **Highlights:** Authentication, CRUD operations, transaction management.
+> **Highlights:** Authentication, transactions, CRUD operations, OOP structure.
 
 ---
 
-### 🔹 [Typer](#)
-An **interactive typing practice platform** with live statistics and progress tracking.  
+### ⌨️ [Typer](#)
+An **interactive typing platform** with real-time speed and accuracy tracking.  
 > **Tech Stack:** React.js, JavaScript  
-> **Features:** Real-time WPM, accuracy tracking, clean UI.
+> **Features:** Instant WPM stats, live accuracy updates, clean UI.
 
 ---
 
-### 🔹 [SkillBridge](#) *(Work in Progress)*
-A platform where learners **track skills** and trainers **assign skill paths** to guide growth.  
+### 🏗 [SkillBridge](#) *(In Progress)*
+Helping **learners track skills** and **trainers assign skill paths** — a complete skill development ecosystem.  
 > **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js)  
-> **Goal:** Simplify skill development for learners and mentors.
+> **Goal:** Streamline growth for learners and mentors.
 
 ---
 
-## ⚡ GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swayamkataria&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamkataria&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swayam-21max&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=00000000" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayam-21max&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🌐 Contribution Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=swayamkataria&theme=radical&hide_border=true" height="180" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swayam-21max&bg_color=000000&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Snake Eating My Contributions
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swayamkataria&theme=github-compact&hide_border=true" width="95%"/>
+  <img src="https://raw.githubusercontent.com/swayam-21max/swayam-21max/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
 
-## 🌐 Let's Connect!
+## 🎨 Fun Zone
+
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" /></a>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="developer gif"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="idea gif"/>
 </p>
 
 ---
 
-## 🐍 Watch My Contribution Snake 🐍
+## 🌍 Let's Connect
 <p align="center">
-  <img src="https://github.com/swayamkataria/swayamkataria/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
+## 🎯 Fun Facts
+- 🚀 I believe in **“Code. Learn. Build. Grow.”**
+- 🧠 Big fan of **AI-driven systems** and **clean architecture**.
+- ⚡ Random fact: I debug my dreams.
+
+---
+
 <p align="center">
-  ⭐ *"Eat. Sleep. Code. Repeat."* ⭐
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF94&center=true&vCenter=true&width=800&lines=Eat.+Sleep.+Code.+Repeat.+🔥;Always+Learning%2C+Always+Building!+🚀" alt="Typing Animation">
 </p>
