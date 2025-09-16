@@ -1,17 +1,19 @@
-# 👋 Hi, I'm Swayam Kataria  
-
-> *"Building scalable systems, solving complex problems, and learning every day."*
+<!-- Typing Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Swayam+Kataria+👋;Java+Developer+%7C+DSA+Enthusiast;Full+Stack+%26+AI+Learner;Building+Scalable+Systems+⚡" alt="Typing SVG">
+</p>
 
 ---
 
-## 🚀 About Me
-I'm a **Java Developer** and **DSA Enthusiast**, passionate about **backend systems**, **Full Stack Development**, and **AI**.  
-Currently diving deep into **AI**, **Computer Networks**, and real-world **system design**.
+# 🌟 About Me
 
-- 🌱 Currently learning **AI** & **Full Stack Development**  
-- 💻 Focused on **Java**, **DSA**, and **Backend Engineering**  
-- 🛠 Building **SkillBridge**, a skill-tracking platform for learners and trainers  
-- 🎯 Goal: Become a **full-stack software engineer** with expertise in **AI & scalable architectures**
+I’m a **passionate developer** who loves building **scalable systems**, solving **complex problems**, and exploring **cutting-edge technologies**.  
+Currently sharpening my skills in **AI**, **Backend Engineering**, and **Full Stack Development**.
+
+- 🔭 **Currently Working On:** `SkillBridge` – a skill-tracking platform for learners and trainers.  
+- 🌱 **Currently Learning:** AI, System Design, Computer Networks.  
+- 💻 **Core Skills:** Java, DSA, Backend Development, Full Stack Engineering.  
+- 🎯 **Goal:** Become a **world-class software engineer** with expertise in **AI-driven systems**.
 
 ---
 
@@ -19,49 +21,64 @@ Currently diving deep into **AI**, **Computer Networks**, and real-world **syste
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Code-C%2FC++-blue?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Code-C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DBFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-3C873A?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MySQL-F29111?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-4DB33D?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-181717?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔹 [Online Banking System](#)
-A **secure banking system** built using **Java** and **DSA**, focused on backend logic and data integrity.  
+A **secure Java-based banking system** built with OOP and DSA concepts.  
 > **Tech Stack:** Java, MySQL  
-> **Features:** User authentication, CRUD operations, transaction history.
+> **Highlights:** Authentication, CRUD operations, transaction management.
 
 ---
 
 ### 🔹 [Typer](#)
-An **interactive typing practice platform** with live stats and speed tracking.  
+An **interactive typing practice platform** with live statistics and progress tracking.  
 > **Tech Stack:** React.js, JavaScript  
-> **Features:** Real-time typing speed, accuracy tracker, user-friendly UI.
+> **Features:** Real-time WPM, accuracy tracking, clean UI.
 
 ---
 
-### 🔹 [SkillBridge](#)
-A **skill management platform** where learners track progress and trainers assign skill paths. *(In Progress)*  
-> **Tech Stack:** React.js, Node.js, Express.js, MongoDB  
-> **Goal:** Helping learners visualize their growth with a structured skill roadmap.
+### 🔹 [SkillBridge](#) *(Work in Progress)*
+A platform where learners **track skills** and trainers **assign skill paths** to guide growth.  
+> **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js)  
+> **Goal:** Simplify skill development for learners and mentors.
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swayamkataria&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamkataria&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swayamkataria&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamkataria&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=swayamkataria&theme=radical&hide_border=true" height="180" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swayamkataria&theme=github-compact&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 🌐 Let's Connect!
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome" /></a>
@@ -70,6 +87,13 @@ A **skill management platform** where learners track progress and trainers assig
 
 ---
 
+## 🐍 Watch My Contribution Snake 🐍
 <p align="center">
-  ⭐ *"Code. Learn. Build. Grow."* ⭐
+  <img src="https://github.com/swayamkataria/swayamkataria/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ *"Eat. Sleep. Code. Repeat."* ⭐
 </p>
