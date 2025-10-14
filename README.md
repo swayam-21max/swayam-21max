@@ -1,7 +1,8 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Swayam+Kataria+👋;Java+Developer+%7C+DSA+Enthusiast+💻;Full+Stack+%26+AI+Learner+🚀;Writing Clean Code and developing new ideas" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+There!+I%27m+Swayam+Kataria+%F0%9F%91%8B;Java+Developer+%7C+DSA+Enthusiast+%F0%9F%92%BB;Full+Stack+%26+AI+Learner+%F0%9F%9A%80;Writing+Clean+Code+and+developing+new+ideas" alt="Typing Animation">
 </p>
+
 
 ---
 
