@@ -21,7 +21,7 @@
 I’m **Swayam Kataria**, a passionate developer who thrives on **creating scalable systems**, **solving tough challenges**, and exploring **cutting-edge technologies**.  
 
 💻 **Tech Love:** Java, DSA, Backend Engineering, Full Stack Development, AI  
-🚀 **Currently Working On:** [SkillBridge](#) – a platform for skill tracking & growth  
+🚀 **Currently Working On:** [AutoRenew](#) –  A centralised platform for fleet administrators to manage their documents.
 📚 **Currently Learning:** AI, System Design, Computer Networks  
 🎯 **Ambition:** Build intelligent, scalable, and impactful products that solve real-world problems.
 
